@@ -1,5 +1,10 @@
 # Phishing Simulation & Defense Lab (Kali Linux + Gophish)
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/55/fe/31/55fe31608321d1104ea0596e8d12a458.gif" alt="Wi-Fi Auditing Diagram">
+</p>
+
+
 A hands-on project demonstrating how phishing attacks are created, launched, and defended against using **Gophish** on **Kali Linux**.  
 This lab focuses on understanding attacker techniques and reinforcing defensive strategies through real-world simulation.
 
